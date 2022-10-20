@@ -11,6 +11,16 @@ SQL programming language has the following vital elements:
 
 **1. Keywords:** Keywords refer to a set of words that allow you to perform operations on your database.
 
+Examples of such keywords with their functional roles:
+#ffffff
+CREATE: This keyword helps in creating a database structure or simply tables, views, and an index
+INSERT: It adds data to the rows of a table
+SELECT: Selects data from database or table
+FROM: Indicates the table from which data needs to be fetched
+WHERE: It filters the data so that only relevant data matching certain conditions is fetched
+UPDATE: Updates existing rows in a table
+DELETE: It deletes the existing rows in a table
+
 **2. Clauses:** Clauses refer to the in-built functions that filter out data and retrieve the required data from the database or table.
 
 **3. Expressions:** SQL expressions represent a formula typically written in a query format. It combines one or more values, operators, and SQL functions that evaluate a specific value. Moreover, SQL expressions are broadly divided into three types, namely, Boolean, numeric, and date.
