@@ -21,6 +21,7 @@ Examples of such keywords with their functional roles:
 * UPDATE: Updates existing rows in a table
 * DELETE: It deletes the existing rows in a table 
 </span>
+
 **2. Clauses:** Clauses refer to the in-built functions that filter out data and retrieve the required data from the database or table.
 
 **3. Expressions:** SQL expressions represent a formula typically written in a query format. It combines one or more values, operators, and SQL functions that evaluate a specific value. Moreover, SQL expressions are broadly divided into three types, namely, Boolean, numeric, and date.
