@@ -13,14 +13,15 @@ SQL programming language has the following vital elements:
 
 Examples of such keywords with their functional roles:
 ```diff
-@@
+<p style='color:red'>
 CREATE: This keyword helps in creating a database structure or simply tables, views, and an index
 INSERT: It adds data to the rows of a table
 SELECT: Selects data from database or table
 FROM: Indicates the table from which data needs to be fetched
 WHERE: It filters the data so that only relevant data matching certain conditions is fetched
 UPDATE: Updates existing rows in a table
-DELETE: It deletes the existing rows in a table @@
+DELETE: It deletes the existing rows in a table 
+</p>
 ```
 **2. Clauses:** Clauses refer to the in-built functions that filter out data and retrieve the required data from the database or table.
 
