@@ -11,10 +11,10 @@ SQL programming language has the following vital elements:
 
 **1. Keywords:** Keywords refer to a set of words that allow you to perform operations on your database.
 
-**2. Clauses:**
+**2. Clauses:** Clauses refer to the in-built functions that filter out data and retrieve the required data from the database or table.
 
-**3. Expressions:**
+**3. Expressions:** SQL expressions represent a formula typically written in a query format. It combines one or more values, operators, and SQL functions that evaluate a specific value. Moreover, SQL expressions are broadly divided into three types, namely, Boolean, numeric, and date.
 
-**4. Predicates:**
+**4. Predicates:** Predicates refer to keywords that reveal a relationship between two expressions and result in a true or false value. It is just another term for an expression that is used to determine an unknown or TRUE/FALSE condition.
 
-**5. Queries:**
+**5. Queries:** SQL queries refer to statements used to request or retrieve data from a database.
