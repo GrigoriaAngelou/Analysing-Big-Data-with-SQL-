@@ -1,5 +1,4 @@
 # Analysing-Big-Data-with-SQL-
-SQL training
 
 ## What is SQL?
 Structured Query Language (SQL) refers to a standard programming language utilized to extract, organize, manage, and manipulate data stored in relational databases.
@@ -10,12 +9,12 @@ SQL is the go-to-choice of most database users due to its easy usability and how
 
 SQL programming language has the following vital elements:
 
-1. Keywords
+**1. Keywords:** Keywords refer to a set of words that allow you to perform operations on your database.
 
-2. Clauses
+**2. Clauses:**
 
-3. Expressions
+**3. Expressions:**
 
-4. Predicates
+**4. Predicates:**
 
-5. Queries
+**5. Queries:**
