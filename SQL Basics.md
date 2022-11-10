@@ -1,4 +1,4 @@
-# Analysing-Big-Data-with-SQL-
+# The basics of SQL
 
 ## What is SQL?
 Structured Query Language (SQL) refers to a standard programming language utilized to extract, organize, manage, and manipulate data stored in relational databases.
