@@ -29,3 +29,12 @@ Examples of such keywords with their functional roles:
 **4. Predicates:** Predicates refer to keywords that reveal a relationship between two expressions and result in a true or false value. It is just another term for an expression that is used to determine an unknown or TRUE/FALSE condition.
 
 **5. Queries:** SQL queries refer to statements used to request or retrieve data from a database.
+
+## Basic Database Operations
+**Data Definition Language (DDL):** SQL uses commands to create and maintain databases such as **CREATE, DROP, ALTER, TRUNCATE,** and **COMMENT.**
+
+**Data Query Language (DQL):** This refers to SQL commands used to retrieve data from databases. The commonly used SQL command here is **SELECT.**
+
+**Data Manipulation Language (DML):** These refer to SQL commands used to manipulate data and perform critical operations on databases, such as **INSERT, UPDATE,** and **DELETE.**
+
+**Data Control Language (DCL):** These refer to SQL control commands that grant users permission or access to perform certain operations. For example, **REVOKE** is the control command that revokes the access permission given to users.
