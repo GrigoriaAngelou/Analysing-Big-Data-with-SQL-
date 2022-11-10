@@ -38,3 +38,14 @@ Examples of such keywords with their functional roles:
 **Data Manipulation Language (DML):** These refer to SQL commands used to manipulate data and perform critical operations on databases, such as **INSERT, UPDATE,** and **DELETE.**
 
 **Data Control Language (DCL):** These refer to SQL control commands that grant users permission or access to perform certain operations. For example, **REVOKE** is the control command that revokes the access permission given to users.
+
+## UNION and JOIN commands
+
+SQL uses **UNION** and **JOIN** commands to merge two tables in a database to provide a single result or output. 
+
+JOIN is further divided into four types:
+
+* INNER JOIN
+* LEFT (OUTER) JOIN
+* RIGHT (OUTER) JOIN
+* FULL (OUTER) JOIN
