@@ -50,6 +50,6 @@ JOIN is further divided into four types:
 * RIGHT (OUTER) JOIN
 * FULL (OUTER) JOIN
 
-## Learning Basic SLQ fro free
+## Learning Basic SLQ for free
 
 There is a very easy and fun website that you can practice your basic SQL knownledge: [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/pc/challenge-box-office-hits-database). 
