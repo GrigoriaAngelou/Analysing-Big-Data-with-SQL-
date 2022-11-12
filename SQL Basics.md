@@ -49,3 +49,7 @@ JOIN is further divided into four types:
 * LEFT (OUTER) JOIN
 * RIGHT (OUTER) JOIN
 * FULL (OUTER) JOIN
+
+## Learning Basic SLQ fro free
+
+There is a very easy and fun website that you can practice your basic SQL knownledge: [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/pc/challenge-box-office-hits-database). 
