@@ -53,4 +53,4 @@ JOIN is further divided into four types:
 ## Practicing SLQ for free
 
 There is a very easy and fun website that you can practice your SQL knownledge: [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/pc/challenge-box-office-hits-database). <br>
-[Here](https://github.com/GrigoriaAngelou/Intro-to-SQL-Structured-Query-Language-) you can find all the challenges from the above course.
+[Here](https://github.com/GrigoriaAngelou/Intro-to-SQL-Structured-Query-Language-) you can find the answers from the challenges and projects the above course.
